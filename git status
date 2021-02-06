@@ -1,0 +1,132 @@
+[33mcommit 16ed740e25e3e4e7a7eae7c8fc693f5add283be9[m[33m ([m[1;36mHEAD -> [m[1;32mwork1[m[33m, [m[1;31morigin/work1[m[33m)[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Thu Jan 28 11:25:32 2021 -0500
+
+    added new file
+
+[33mcommit a287ed023813660d231f562b94ecc7b60a443b62[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 9e20752 33a2192
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 16:28:41 2021 -0500
+
+    Merge branch 'movie3'
+    
+    # Conflicts:
+    #       src/main/java/SeeingDefference.java
+
+[33mcommit 9e207523a12d388292e9f212e372e837c8715649[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 16:27:10 2021 -0500
+
+    new line on master
+
+[33mcommit 33a2192b477dc9109ad62ad51b69d0494f12977a[m[33m ([m[1;32mmovie3[m[33m)[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 16:26:04 2021 -0500
+
+    new movie3 change
+
+[33mcommit 25a3fb4759311f32b42012f8aa6d13021a489111[m[33m ([m[1;32mmovie2[m[33m)[m
+Merge: 64e7cb3 7798fe3
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 16:22:33 2021 -0500
+
+    new file
+
+[33mcommit 64e7cb3bf82a43b19bfb7cfec1d7df40ce9d6668[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 15:26:29 2021 -0500
+
+    updated
+
+[33mcommit 2f6d98181c1ae67a77a3c1628a677295044cf33d[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 15:24:35 2021 -0500
+
+    updated Hello.java
+
+[33mcommit 7798fe390f907d57f36ca9105471c6fd15333666[m[33m ([m[1;32mmovie1[m[33m)[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 15:22:50 2021 -0500
+
+    movie1 updated Hello.java
+
+[33mcommit 0e12302e387d5c65068207ef65e4e6098e825dfd[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 15:16:20 2021 -0500
+
+    movie1 updated Hello.java
+
+[33mcommit 230a97d3fc009502fe14e852f391cf95377bdd49[m
+Merge: dc8533e 332b40d
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 14:46:05 2021 -0500
+
+    different work
+
+[33mcommit 332b40d04cd86a8c57ca35a9de98a0bf997638f2[m[33m ([m[1;32mfeauture-c[m[33m)[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 14:40:52 2021 -0500
+
+    more work on FeatureCTest
+
+[33mcommit d2c5773ee690e321459ccee6210fda36ea57f610[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 14:40:05 2021 -0500
+
+    initial work on FeatureCTest
+
+[33mcommit dc8533e7413d335e4bbe0534229587ac3db731f8[m
+Merge: 2199ba4 dfc9186
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 14:37:01 2021 -0500
+
+    Merge branch 'feature-b'
+
+[33mcommit dfc9186cd2ab98e7f15bb1dcbd803d08d7d01f08[m[33m ([m[1;32mfeature-b[m[33m)[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 14:33:17 2021 -0500
+
+    more on FeatureBTest
+
+[33mcommit 6bb6e1e6a34f2e6a758654d41295cee6585bbc4f[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 14:32:21 2021 -0500
+
+    created FeatureBTest
+
+[33mcommit 2199ba42f2311afdfde5735f3ffc25779b6afb36[m[33m ([m[1;32mfeature-a[m[33m)[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 14:24:19 2021 -0500
+
+    work on FeatureACode
+
+[33mcommit 15eb4556e97c6d5d2b09666abd2be13d027df492[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 14:23:37 2021 -0500
+
+    more work on FeatureACode
+
+[33mcommit aa280db3f1a8fa47d142d5983b474353617684c2[m[33m ([m[1;31morigin/feature-a[m[33m)[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 14:22:41 2021 -0500
+
+    started working on FeatureACode
+
+[33mcommit 154e4160b8d2ab4d6179c3cc191247d7e09a5097[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 13:43:28 2021 -0500
+
+    added B-21
+
+[33mcommit 082d05bbdf0e7d2435ac2c5f23c65216156f01b2[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 13:32:46 2021 -0500
+
+    added testing
+
+[33mcommit cb7e995468111ad338ce99f70e7900ceddd21dd5[m
+Author: olena333 <akp2315@gmail.com>
+Date:   Tue Jan 26 13:27:29 2021 -0500
+
+    initial commit
